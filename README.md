@@ -16,7 +16,7 @@
 - 🧩 Focused on writing **clean, efficient, and scalable code**
 - 🌱 Currently exploring **Next.js and Cloud Deployment**
 - 💬 Ask me about **React, APIs, Firebase, and Java OOPs**
-- 📫 Reach me at: **yourmail@gmail.com**
+- 📫 Reach me at: **balmukands95@gmail.com**
 
 ---
 
@@ -49,9 +49,7 @@
 | 🧱 Project | 📜 Description | 🛠️ Tech |
 |------------|----------------|----------|
 | [🏨 Hidden Kashi](https://github.com/YOUR-GITHUB-ID/Hidden-Kashi) | A hotel booking and discovery platform with Firebase backend | React, Firebase |
-| [📅 Event Reminder System](https://github.com/YOUR-GITHUB-ID/Event-Reminder-System) | Java-based reminder system for managing daily events | Java, OOP |
-| [🛒 Shopping Cart System](https://github.com/YOUR-GITHUB-ID/Shopping-Cart-System) | CLI-based shopping cart using classes and pointers | C++ |
-| [📈 Portfolio Website](https://github.com/YOUR-GITHUB-ID/Portfolio) | Personal portfolio showcasing skills & projects | React, Tailwind |
+
 
 ---
 
@@ -71,13 +69,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+  <a href="linkedin.com/in/balmukand-sharma-8744a2283/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Balmukand%20Sharma-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="balmukands95@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB-ID" target="_blank">
+  <a href="https://github.com/sharma5231" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://yourportfolio.vercel.app" target="_blank">
