@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 ### 🖥️ Frontend
 <p align="center">
