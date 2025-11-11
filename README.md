@@ -11,12 +11,12 @@
 
 ## 🚀 About Me
 
-- 🎓 **Software Developer passionate about building impactful web apps**
-- 💡 Skilled in **React, Firebase, Node.js, Java, and C++**
-- 🧩 Focused on writing **clean, efficient, and scalable code**
-- 🌱 Currently exploring **Next.js and Cloud Deployment**
-- 💬 Ask me about **React, APIs, Firebase, and Java OOPs**
-- 📫 Reach me at: **balmukands95@gmail.com**
+-  **Software Developer passionate about building impactful web apps**
+-  Skilled in **React, Firebase, Node.js, Java, and C++**
+-  Focused on writing **clean, efficient, and scalable code**
+-  Currently exploring **Next.js and Cloud Deployment**
+-  Ask me about **React, APIs, Firebase, and Java OOPs**
+-  Reach me at: **balmukands95@gmail.com**
 
 ---
 
