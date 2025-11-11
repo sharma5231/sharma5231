@@ -29,7 +29,7 @@
 
 ### ⚙️ Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### 💻 Programming Languages
@@ -39,7 +39,7 @@
 
 ### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -78,9 +78,9 @@
   <a href="https://github.com/sharma5231" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://yourportfolio.vercel.app" target="_blank">
+  <!-- <a href="https://yourportfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" />
-  </a>
+  </a> -->
 </p>
 
 ---
